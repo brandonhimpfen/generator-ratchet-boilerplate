@@ -1,0 +1,36 @@
+{
+  "name": "generator-ratchet-boilerplate",
+  "version": "0.1.0",
+  "description": "Yeoman generator for the Ratchet Boilerplate",
+  "keywords": [
+    "yeoman-generator",
+    "ratchet",
+    "html",
+    "html5",
+    "css",
+    "js",
+    "javascript",
+    "boilerplate",
+    "template",
+    "mobile",
+    "app",
+    "apps"
+  ],
+  "author": {
+    "name": "Brandon Himpfen",
+    "email": "brandon@himpfen.com",
+    "url": "http://www.himpfen.com"
+  },
+  "main": "app/index.js",
+  "files": [
+    "app"
+  ],
+  "repository": "brandonhimpfen/generator-ratchet-boilerplate",
+  "dependencies": {
+    "yeoman-generator": "^0.18.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "licenses": "MIT"
+}
