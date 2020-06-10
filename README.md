@@ -1,7 +1,8 @@
 # generator-ratchet-boilerplate
-**Donate:** [PayPal](https://go.himpfen.com/1j)
 
 Yeoman generator for the Ratchet Boilerplate.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/brandonhimpfen)
 
 ## Install
 
